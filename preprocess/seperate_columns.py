@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Specify the folder path containing your CSV files
-folder_path = 'C:\Users\asus\Desktop\Gilmore girls sentiment analysis\CSV'
+folder_path = 'C:/Users/asus/Desktop/Gilmore_girls_sentiment_analysis/CSV'
 
 # Initialize a dictionary to store DataFrames
 dataframes = {}

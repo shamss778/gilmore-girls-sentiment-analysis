@@ -24,7 +24,7 @@ def pdf_to_csv(pdf_path, csv_path):
 
 # Usage
 pdf_folder = "PDF"
-output_folder = "output"
+output_folder = "CSV"
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
